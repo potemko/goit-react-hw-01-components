@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/potemko/goit-react-hw-01-components.git/static/css/main.97485dd7.css",
-    "main.js": "/potemko/goit-react-hw-01-components.git/static/js/main.a2d39319.js",
+    "main.css": "/potemko/goit-react-hw-01-components.git/static/css/main.f9964320.css",
+    "main.js": "/potemko/goit-react-hw-01-components.git/static/js/main.65651a27.js",
     "index.html": "/potemko/goit-react-hw-01-components.git/index.html",
-    "main.97485dd7.css.map": "/potemko/goit-react-hw-01-components.git/static/css/main.97485dd7.css.map",
-    "main.a2d39319.js.map": "/potemko/goit-react-hw-01-components.git/static/js/main.a2d39319.js.map"
+    "main.f9964320.css.map": "/potemko/goit-react-hw-01-components.git/static/css/main.f9964320.css.map",
+    "main.65651a27.js.map": "/potemko/goit-react-hw-01-components.git/static/js/main.65651a27.js.map"
   },
   "entrypoints": [
-    "static/css/main.97485dd7.css",
-    "static/js/main.a2d39319.js"
+    "static/css/main.f9964320.css",
+    "static/js/main.65651a27.js"
   ]
 }
