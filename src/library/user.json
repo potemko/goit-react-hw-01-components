@@ -12,8 +12,8 @@
 },
 {
   "id": 2,
-  "username": "Jacques Gluke",
-  "tag": "jgluke",
+  "username": "John Cena",
+  "tag": "jcena",
   "location": "Ocho Rios, Jamaica",
   "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
   "stats": {
@@ -24,8 +24,8 @@
 },
 {
   "id": 3,
-  "username": "Jacques Gluke",
-  "tag": "jgluke",
+  "username": "Billy Bucher",
+  "tag": "theBoys",
   "location": "Ocho Rios, Jamaica",
   "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
   "stats": {
