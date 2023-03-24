@@ -49,34 +49,3 @@ const Profile = ({profile}) => {
   }
   
   export default ClientLiest
-
-
-// import user from "../../library/user.json"
-// import css from '../Profile/Profile.module.css'
-
-// export const Profile = () => { 
-//   return(
-//    user.map((photo) =>{
-    
-//     return(
-      
-//     <div key={photo.id} className={css.Prof__card}>
-//       <img src={photo.avatar} className={css.card__img} alt={photo.username} />
-//       <div className={css.card_body}>
-//         <p className={css.name_text}>{photo.username}</p>
-//         <p className={css.name_text}>#{photo.tag}</p>
-//         <p className={css.text_location}>{photo.location}</p>
-//       </div>
-//       <ul className = {css.stats_list}>
-//         <li className={css.stats_item}>
-//           <span>followers</span>
-//           <span>{photo.stats.followers}</span>
-//         </li>
-//         <li className={css.stats_item}><span>views</span>
-//           <span>{photo.stats.views}</span></li>
-//         <li className={css.stats_item}><span>likes</span>
-//           <span>{photo.stats.likes}</span></li>
-//       </ul>
-//     </div>
-//     )
-//   }))}

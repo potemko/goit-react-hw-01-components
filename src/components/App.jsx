@@ -1,5 +1,8 @@
 import ClientLiest from "./Profile/Profile"
 import users from "../library/user.json"
+import StatsLiest from "../components/Statictics/Statistics"
+import data from "../library/data.json"
+
 
 import "../index.css"
 
@@ -7,35 +10,8 @@ import "../index.css"
 export const App = (props) => {
   return (
     <div>
-      <ClientLiest items={users}/>
-     
+     <ClientLiest items={users}/>
+     <StatsLiest title={"new statistics"} items={data}/>
     </div>
   );
 };
-
-
-// import { Profile } from "./Profile/Profile"
-
-
-
-// const App = () => {
-//   return <Profile />
-// }
-// export default App
-
-
-
-
-// import Client from "./Profile/Profile"
-// import user from "../library/user.json"
-
-// import "../index.css"
-
-// export const App = () => {
-//   return (
-//     <div>
-//     <Client items={user}/>
-//     </div>
-//   );
-// };
-

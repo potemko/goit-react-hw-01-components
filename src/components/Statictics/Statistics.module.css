@@ -1,0 +1,52 @@
+.statistics {
+    padding: 20px 0;
+    text-align: center;
+    background-color: ivory;
+}
+
+.title {
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3px 7px 7px 7px;
+    width: 35px;
+    font-size: 20px;
+    background-color: grey;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+@media screen and (min-width: 480px) {
+    .item {
+        width: 52px;
+    }
+
+    .list{
+        gap: 20px;
+    }
+}
+
+.label, .percentage {
+    font-weight: 600;
+}
+
+.percentage {
+    color: rgb(255, 255, 255);
+}
+.btn{
+    background-color: khaki;
+    width: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
