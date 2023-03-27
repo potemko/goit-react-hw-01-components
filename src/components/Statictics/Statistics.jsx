@@ -5,7 +5,7 @@ const StatsLiest = ({title, items}) =>{
     return <section className={css.statistics}>
 <h2 className={css.title}>{title}</h2>
 <ul className={css.list}>
-    {items.map(item => < Stat stat={item} key={item.id}/>)}
+    {items.map(item => <Stat stat={item} key={item.id}/>)}
 </ul>
 
     </section>
