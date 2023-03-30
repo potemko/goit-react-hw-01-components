@@ -1,32 +1,30 @@
-.transaction{
-    background-color: floralwhite;
-    padding: 20px;
-    text-align: center;
+.transaction {
+  background-color: floralwhite;
+  padding: 20px;
+  text-align: center;
 }
-.title{
-    text-transform: uppercase;
+.title {
+  text-transform: uppercase;
 }
-.table{
-    border-collapse: collapse;
-    width: 100%;
-    font-family: Arial, sans-serif;
-    font-size: 14px;
-    margin-bottom: 20px;
-    
+.table {
+  border-collapse: collapse;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  margin-bottom: 20px;
 }
 .title__table,
-.list
-{
-    padding: 8px;
+.list {
+  padding: 8px;
   text-align: left;
   vertical-align: middle;
   border: 1px solid black;
   text-align: center;
 }
-.title__table{
-    font-weight: bold;
+.title__table {
+  font-weight: bold;
   background-color: lavender;
 }
-.list{
-background-color: beige;
+.list {
+  background-color: beige;
 }
